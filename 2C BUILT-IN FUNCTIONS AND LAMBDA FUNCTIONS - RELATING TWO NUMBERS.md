@@ -24,7 +24,8 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```
-
+#Reg.NO : 212223060218
+#Name : RAJESWARI.T
 x=int(input())
 y=int(input())
 if(x<y):
